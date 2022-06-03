@@ -2,9 +2,9 @@
 <resources>
 
     <!--app main color-->
-    <color name="colorPrimary">#E91E63</color>
-    <color name="colorPrimaryDark">#AD1457</color>
-    <color name="colorAccent">#f94d87</color>
+    <color name="colorPrimary">#a68069</color>
+    <color name="colorPrimaryDark">#d8af97</color>
+    <color name="colorAccent">#bf9780</color>
     <color name="colorBackgroundLight">#FFFFFF</color>
 
     <!--dark theme color-->
